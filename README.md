@@ -2,11 +2,13 @@
 
 Turns text into audio using Amazon Polly
 
-## How it works :question:
+## How does it works :question:
+
+To go to the webpage [click here](https://textvoicepageholder.s3.amazonaws.com/index.html)
 
 Write in the textbox and then click "Convert to Speech". If everything is ok, the audio converted from the text that you provided will be played automatically.
 
-![alt text](image.png)
+![webpage](image.png)
 
 ## AWS Services Used :cloud: :construction_worker:
 
